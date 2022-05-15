@@ -5,6 +5,7 @@
 - [.mockend.json](.mockend.json)
 
 ## REST examples
+POST, PUT, PATCH and DELETE requests are mocked and changes aren't saved. 
 
 **GET**
 - https://mockend.com/vctqs1/device-battery-status-mock/devices
