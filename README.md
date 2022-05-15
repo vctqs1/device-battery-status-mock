@@ -15,8 +15,11 @@ GET
 
 
 POST   https://mockend.com/vctqs1/device-battery-status-mock/devices
+
 PUT    https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
+  
 PATCH  https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
+  
 DELETE https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
 
 
