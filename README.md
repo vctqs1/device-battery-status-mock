@@ -6,7 +6,7 @@
 
 ## REST examples
 
-GET
+**GET**
 - https://mockend.com/vctqs1/device-battery-status-mock/devices
 - https://mockend.com/vctqs1/device-battery-status-mock/devices/1
 - https://mockend.com/vctqs1/device-battery-status-mock/devices?baterry_order=asc
@@ -14,13 +14,17 @@ GET
 - https://mockend.com/vctqs1/device-battery-status-mock/devices?os_eq=Apple&views_lt=20
 
 
-POST   https://mockend.com/vctqs1/device-battery-status-mock/devices
+**POST**   
+- https://mockend.com/vctqs1/device-battery-status-mock/devices
 
-PUT    https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
+**PUT**    
+- https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
+ 
+**PATCH**
+- https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
   
-PATCH  https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
-  
-DELETE https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
+**DELETE**
+- https://mockend.com/vctqs1/device-battery-status-mock/devices/<id>
 
 
 
