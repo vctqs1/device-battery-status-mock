@@ -1,7 +1,7 @@
 {
   "Device": {
     "name": { "string": {
-        "regexp": "(Samsung|Iphone) ([1-9])"
+        "regexp": "(Samsung|Iphone) [1-9]"
 } },
     "baterry": { "int": {
       "min": 20,
