@@ -7,6 +7,9 @@
       "min": 20,
       "max": 100
      } },
-    "created_at": { "datetime": {}}
+    "created_at": {  "dateTime": {
+        "min": "2022-01-01T00:00:00Z",
+        "max": "2022-04-31T23:59:59Z"
+      }}
   }
 }
