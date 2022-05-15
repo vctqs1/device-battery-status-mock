@@ -8,8 +8,8 @@
 
 - https://mockend.com/vctqs1/device-battery-status-mock/devices
 - https://mockend.com/vctqs1/device-battery-status-mock/devices/1
-- https://mockend.com/vctqs1/device-battery-status-mock/devices?createdAt_order=desc
--https://mockend.com/vctqs1/device-battery-status-mock/devices?os_eq=Apple
+- https://mockend.com/vctqs1/device-battery-status-mock/devices?created_at_order=desc
+- https://mockend.com/vctqs1/device-battery-status-mock/devices?os_eq=Apple
 
 ## GraphQL examples
 
