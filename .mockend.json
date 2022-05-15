@@ -1,5 +1,10 @@
 {
   "Device": {
-    "name": { "string": {} }
+    "name": { "string": {} },
+    "baterry": { "int": {
+      "min": 20,
+      "max": 100
+     } },
+    "created_at": { "datetime": {}}
   }
 }
