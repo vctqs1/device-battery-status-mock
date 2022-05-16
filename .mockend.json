@@ -2,7 +2,7 @@
   "Device": {
     "name": {
         "regexp": "Manabie Phone [1-9]{2}" },
-    "baterry": { "int": {
+    "battery": { "int": {
       "min": 20,
       "max": 100
      } },
