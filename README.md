@@ -9,9 +9,9 @@
 **GET**
 - https://mockend.com/vctqs1/device-battery-status-mock/devices
 - https://mockend.com/vctqs1/device-battery-status-mock/devices/1
-- https://mockend.com/vctqs1/device-battery-status-mock/devices?baterry_order=asc
+- https://mockend.com/vctqs1/device-battery-status-mock/devices?battery_order=asc
 - https://mockend.com/vctqs1/device-battery-status-mock/devices?os_eq=Apple
-- https://mockend.com/vctqs1/device-battery-status-mock/devices?os_eq=Apple&baterry_lt=20
+- https://mockend.com/vctqs1/device-battery-status-mock/devices?os_eq=Apple&battery_lt=20
 - https://mockend.com/vctqs1/device-battery-status-mock/devices?limit=30&offset=1
 
 Query parameters can be used to filter, sort and paginate lists:
